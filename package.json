@@ -1,0 +1,14 @@
+{
+  "name": "winner",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Hunter Trujillo",
+  "dependencies": {
+    "async": "^1.4.0",
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.0",
+    "manticore": "^0.2.4",
+    "wordnet-magic": "^0.3.0"
+  }
+}
